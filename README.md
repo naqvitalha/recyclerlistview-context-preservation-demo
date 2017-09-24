@@ -11,6 +11,9 @@ cd contextProviderSampleApp
 npm install
 react-native run-android
 ```
+
+You can also run on ios using `react-native run-ios`
+
 # Demo GIF:
 
 ![Demo](https://media.giphy.com/media/26vIfoQxV4vLScoUM/giphy.gif)
