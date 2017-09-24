@@ -11,6 +11,6 @@ npm install
 react-native run-android
 ```
 Demo gif:
-[[http://gph.is/2fIVtR5]]
+![Demo](http://gph.is/2fIVtR5)
 
 To read more about this check out this post: --------------
